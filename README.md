@@ -78,4 +78,4 @@ https://www.jetbrains.com/phpstorm/
 http://agiledata.org/essays/tdd.html
 
 ## Free Alternative:
-https://code.visualstudio.com/
+https://code.visualstudio.com/"# faq3" 
