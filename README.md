@@ -1,5 +1,3 @@
-
-
 ## To run the FAQ project:
 
 1. git clone https://github.com/NJIT-WIS/faq.git
