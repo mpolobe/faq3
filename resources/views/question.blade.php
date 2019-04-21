@@ -8,7 +8,6 @@
                     <div class="card-header">Question</div>
 
                     <div class="card-body">
-
                         {{$question->body}}
                     </div>
                     <div class="card-footer">
